@@ -27,7 +27,7 @@ public class constructors{
         Student s1=new Student();
         s1.display();
         
-        Student s2=new Student("moddagudu",20);
+        Student s2=new Student("raj",20);
         s2.display();
         
         Student s3=new Student("Chetan",19,"AIML");
